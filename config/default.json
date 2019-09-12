@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://admin:test@atlasapp-wxmpz.mongodb.net/test?retryWrites=true&w=majority"
+}
