@@ -8,10 +8,7 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix",
-    "client": "npm start --prefix client",
-    "clientinstall": "npm install --unsafe-perm=true --allow-root --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [],
   "author": "",
