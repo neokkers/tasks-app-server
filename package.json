@@ -1,7 +1,7 @@
 {
-  "name": "notes-app",
+  "name": "tasks-app",
   "version": "1.0.0",
-  "description": "notes application",
+  "description": "tasks-app application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
